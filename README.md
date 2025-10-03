@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Java-based procedural 2D world generator created for an Object-Oriented Programming (OOP) course. It builds dynamic, natural-looking landscapes using layered noise functions, places trees and vegetation procedurally, and features an animated day/night cycle. The code demonstrates modular, object-oriented design and procedural content generation, making it both educational and practical.
+This project is a Java-based procedural 2D world generator created for an Object-Oriented Programming (OOP) course. It builds dynamic, natural-looking landscapes using layered noise functions, places trees and vegetation procedurally, and features an animated day/night cycle. The code demonstrates modular, object-oriented design and procedural content generation.
 
 ## Features
 
